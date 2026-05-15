@@ -1,8 +1,3 @@
 {
-    "defaultCommentOrder": "newest",
-    "originsRegex": [
-        "https://kingdomzhen\\.github\\.io",
-        "https://kingdomzhen.wang",
-        "https://.*\\.kingdomzhen.wang"
-    ]
+    "defaultCommentOrder": "newest"
 }
